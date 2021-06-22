@@ -1,9 +1,10 @@
-#	Livro de receitas :man_cook:
+# Livro de receitas :man_cook:
 
 
 
 Olá, seja bem-vindo ou bem-vida ao meu livro de receitas!
 
 - Strogonoff de Frango!
-- Kinoa
+- Kinoa 
 - Amaranto
+- Kinoa Vermelha
